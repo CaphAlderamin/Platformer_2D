@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - NPC
+  - Chest
+  - EnemyPatrolPoint
+  - StatsUpNPC
+  - Decoration
+  - OneWayPlatform
+  - NextLevelDoor
+  - InteractionObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Decoration
+  - Ground
+  - NPC
+  - UsableObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3746470147
+    locked: 0
+  - name: Props
+    uniqueID: 2998996281
+    locked: 0
+  - name: DestroyedObjects
+    uniqueID: 917225529
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 2740806481
+    locked: 0
+  - name: NPC
+    uniqueID: 46696931
+    locked: 0
+  - name: Enemy
+    uniqueID: 3425167803
+    locked: 0
+  - name: Player
+    uniqueID: 3358049791
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4002223009
+    locked: 0
+  - name: HUD
+    uniqueID: 3864840541
+    locked: 0
+  - name: Menu
+    uniqueID: 364881521
+    locked: 0
